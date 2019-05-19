@@ -11,6 +11,10 @@ pandas = "*"
 matplotlib = "*"
 seaborn = "*"
 jupyter = "*"
+sklearn = "*"
+fancyimpute = "*"
+imblearn = "*"
+xgboost = "*"
 
 [requires]
-python_version = "3.6"
+python_version = "3.7"
