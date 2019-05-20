@@ -13,8 +13,9 @@ seaborn = "*"
 jupyter = "*"
 sklearn = "*"
 fancyimpute = "*"
-imblearn = "*"
 xgboost = "*"
+pydotplus = "*"
+imbalanced-learn = "*"
 
 [requires]
 python_version = "3.7"
